@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi there, my name is Yeshua 👋
+
+I'm a *Front-end Developer* and *Graphic Desginer*, living in *Curitiba, Brasil*
+
+Main Stack:
+- 🐶 Pug 🐶 ✨✨✨
+- Vue.js  ✨✨✨
+- React.js ⚛️
+- Angular
+- Vanilla JS (ES6)
+- Everything CSS (SCCS, LESS, STYLUS, BEM, OCSSS and more)
+
+Currently learning:
+- Android Development
+- React Native
+- Flutter
+- Node.js
+- Vue 3.0
+
+Indentation: 2 spaces
 
 <!--
 **yexx/yexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
