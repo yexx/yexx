@@ -3,8 +3,8 @@
 I'm a *Front-end Developer* and *Graphic Desginer*, living in *Curitiba, Brasil*
 
 Main Stack:
-- 🐶 Pug 🐶 ✨✨✨
-- Vue.js  ✨✨✨
+- ![Pug Logo](https://pugjs.org/images/favicon-16x16.png) Pug ✨✨✨
+- ![Vue Logo](https://vuejs.org/images/icons/favicon-16x16.png) Vue.js  ✨✨✨
 - React.js ⚛️
 - Angular
 - Vanilla JS (ES6)
@@ -18,18 +18,3 @@ Currently learning:
 - Vue 3.0
 
 Indentation: 2 spaces
-
-<!--
-**yexx/yexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
