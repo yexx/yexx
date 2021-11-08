@@ -1,6 +1,6 @@
 ### Hi there, my name is Yeshua 👋
 
-I'm a *Front-end Developer* and *Graphic Desginer*, living in *Curitiba, Brasil*
+I'm a *Front-end Developer* and *Graphic Designer*, living in *Curitiba, Brasil*
 
 Main Stack:
 - ![Pug Logo](https://pugjs.org/images/favicon-16x16.png) Pug ✨✨✨
