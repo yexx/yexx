@@ -3,8 +3,8 @@
 I'm a *Front-end Developer* and *Graphic Designer*, living in *Curitiba, Brasil*
 
 Main Stack:
-- ![Pug Logo](https://pugjs.org/images/favicon-16x16.png) Pug ✨✨✨
-- ![Vue Logo](https://vuejs.org/images/icons/favicon-16x16.png) Vue.js  ✨✨✨
+- ![Pug Logo](https://pugjs.org/images/favicon-16x16.png) Pug
+- ![Vue Logo](https://vuejs.org/images/icons/favicon-16x16.png) Vue  ✨✨✨
 - React.js ⚛️
 - Angular
 - Vanilla JS (ES6)
@@ -15,6 +15,5 @@ Currently learning:
 - React Native
 - Flutter
 - Node.js
-- Vue 3.0
 
 Indentation: 2 spaces
